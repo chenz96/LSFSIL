@@ -1,3 +1,3 @@
 # LSFSIL
 
-Code for Low-rank Sparse feature selection with incomplete labels
+Code for Low-rank Sparse Feature Selection with Incomplete Labels
